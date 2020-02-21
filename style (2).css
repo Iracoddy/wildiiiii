@@ -1,0 +1,39 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+
+}
+
+.title {
+	color: #006400;
+	text-align: right;
+	background-color: #87CEEB;
+}
+
+.title2 {
+	color: #006400;
+	text-align: right;
+	background-color: #87CEEB;
+}
+
+.title3 {
+	color: #006400;
+	text-align: right;
+	background-color: #87CEEB;
+}
+
+p{
+	text-align: right;
+	background-color: #87CEEB;
+}
+
+.section-subtitle{
+	text-align: left;
+	border-style: solid;
+}
+
+body {
+	border-style: solid;
+	
+}
